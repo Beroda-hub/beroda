@@ -1,4 +1,4 @@
-# beroda
+# Derek Manning
 Breaking things. Fixing things. Writing down what I learned, one mistake at a time.
 
 It’s a living document of things I’ve broken, fixed, misunderstood, optimized, and learned the hard way. I’m a cybersecurity student, but a lot of what I’ve learned hasn’t come from lectures — it’s come from troubleshooting at weird hours, staring at logs, and realizing the problem wasn’t what I thought it was.

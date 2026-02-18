@@ -1,7 +1,7 @@
 # beroda
 Breaking things. Fixing things. Writing down what I learned, one mistake at a time.
 
-This isn’t a résumé. It’s a living log of things I’ve broken, fixed, misunderstood, optimized, and learned the hard way. I’m a cybersecurity student, but a lot of what I’ve learned hasn’t come from lectures — it’s come from troubleshooting at weird hours, staring at logs, and realizing the problem wasn’t what I thought it was.
+It’s a living document of things I’ve broken, fixed, misunderstood, optimized, and learned the hard way. I’m a cybersecurity student, but a lot of what I’ve learned hasn’t come from lectures — it’s come from troubleshooting at weird hours, staring at logs, and realizing the problem wasn’t what I thought it was.
 
 I’m building this repo as something I’ll keep adding to over the years and something i can look back on and remember.
 

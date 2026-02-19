@@ -1,0 +1,7 @@
+###Lab1 for forensic's takeaway###
+
+I completed a lab for forensics class today and used the following: volatility 2.6, the sysinteralsuite to examine a ramp dump (provided by instructor) that listed a system running WINXPSP2. 
+Some of the plugins used with the .exe include imageinfo, pslist, psscan, hivelist, shutdowntime, connections, connscan and mbrparser. 
+
+From this lab, I learned how to extract process, registry, storage, and network artifacts from a memory dump, and how each plugin provides a different view of the system state at the time of capture.
+It was a good exercise in piecing together system activity and potential evidence from memory.

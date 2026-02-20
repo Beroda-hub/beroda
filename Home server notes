@@ -1,5 +1,6 @@
 Home Server notes:
 
+##2/20/2026##
 Got server grade desktop, with dual Xeon E5-2690 (28-core 56 thread) with 64GB of ddr4 ECC memory.
 Installed proxmox as the base OS and decided to throw up a few linux installations, one being a headless ubuntu(docker containers etc), a kubuntu install(minecraft/game server hosting), and a Kali linux install (mostly for schoolwork / Hackthebox / Tryhackme)
 With the kubuntu installtion, i decided to throw up a few minecraft servers for the family, and as a result of some experimenting, came across an issue where the NIC was essentialy failing for unspecified reasons. did a little research, and it appears that from the sudden transmission burst from some TNT explosions (alot) it just overloaded the nic and caused it into a hard fault. some troubleshooting by just unplugging the ethernet cable and plugging it back in caused it to return to normal while the cpu's and memory with the kubuntu install only showed a minor bump in usaged from the sudden resource demand.  have a temporary fix in place to allow the onboard nic to work till i can get an upgraded PCIE nic later on.  took a few days to troubleshoot this one as it threw me for a loop
